@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">XInter</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="namakamu">tulis nama lengkap kamu ya</string>
+    <string name="email">tulisin email kamu disini</string>
+    <string name="password">sstt.. masukin password kamu </string>
+    <string name="daftar">Daftar</string>
+    <string name="hey_there"><font color="#ee2a00">hai haiiii!! </font></string>
+    <string name="buatakun">Buat akun X</string>
+    <string name="nama">nama</string>
+    <string name="login">masuk</string>
+    <string name="tanggal">tanggal</string>
+    <string name="hint_tulis_deskripsi">tulis deskripsi dari gambar yang akan kamu posting</string>
+    <string name="tv_deskripsi">Deskripsi</string>
+    <string name="tv_upload_foto">unggah foto</string>
+    <string name="keluar">keluar</string>
+    <string name="bahasa">bahasa</string>
+    <string name="camera">kamera</string>
+    <string name="gallery">galeri</string>
+    <string name="belumpunyaakun">kamu belum punya akun?</string>
+    <string name="klikdisini">klik disini!!!</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+
+    <string name="title_activity_maps">MAPS</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="coba_lagi">Retry</string>
+</resources>

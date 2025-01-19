@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ic_map"
+        android:title="Map"
+        android:icon="@drawable/baseline_map_24"
+        app:showAsAction="collapseActionView|always" />
+
+    <item
+        android:id="@+id/action_language"
+        android:title="@string/bahasa"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/keluar"
+        app:showAsAction="never"/>
+
+</menu>

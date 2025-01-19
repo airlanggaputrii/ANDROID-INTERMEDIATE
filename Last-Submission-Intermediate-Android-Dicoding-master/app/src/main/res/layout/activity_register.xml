@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".a.activity.RegisterActivity">
+
+    <EditText
+        android:id="@+id/ed_register_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/namakamu"
+        android:minHeight="48dp"
+        android:padding="12dp"/>
+
+    <com.bangkit.intermediateandroid.submission1intermediate2.a.customview.EdEmail
+        android:id="@+id/ed_register_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email"
+        android:minHeight="48dp"
+        android:padding="12dp"
+        android:inputType="textEmailAddress" />
+
+    <com.bangkit.intermediateandroid.submission1intermediate2.a.customview.EdPassword
+        android:id="@+id/ed_register_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password"
+        android:minHeight="48dp"
+        android:padding="12dp"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/daftar"
+        android:minHeight="48dp"
+        android:padding="12dp"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+</LinearLayout>

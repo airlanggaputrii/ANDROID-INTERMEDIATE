@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">XInter</string>
+    <string name="deskripsi">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="tanggal">Date</string>
+    <string name="hint_tulis_deskripsi">Tulis Deskripsi...</string>
+    <string name="tv_deskripsi">Deskripsi</string>
+    <string name="tv_upload_foto">Unggah foto</string>
+    <string name="logout">Keluar</string>
+    <string name="language">Bahasa</string>
+    <string name="camera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="belumpunyaakun">Belum punya akun?</string>
+    <string name="klikdisini">klik disini</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="coba_lagi">Coba lagi</string>
+</resources>
